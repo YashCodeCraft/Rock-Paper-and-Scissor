@@ -41,4 +41,28 @@ A simple console-based Rock, Paper, Scissors game implemented in Python. The use
 
 1. Clone this repository or download the Python file.
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/YashCodeCraft/Rock-Paper-and-Scissor.git
+   ```
+
+2. Ensure that Python is installed on your system (Python 3.x recommended).
+   
+## Running the Game
+To start the game, navigate to the directory where the Python file is located, then run the following command:
+
+```bash
+python3 main.py
+```
+
+## Requirements
+- Python 3.x
+- No additional libraries are required.
+
+  
+## Project Structure
+```plaintext
+rock-paper-scissors/
+│
+├── README.md           # Game instructions and documentation
+├── main.py             # Python script for the game
+└── .gitignore          # To ignore unnecessary files (optional)
+```
